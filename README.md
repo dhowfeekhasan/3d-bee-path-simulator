@@ -4,4 +4,5 @@ This is a Python script that simulates a dynamical system using a variation of t
 
 **Output** 
 
-<img width="988" height="746" alt="image" src="https://github.com/user-attachments/assets/699e3da2-b3f8-416f-b7f5-30a2ea845cf4" />
+<img width="1171" height="845" alt="image" src="https://github.com/user-attachments/assets/19888d11-2dfc-4d07-a5eb-52a620a38238" />
+
